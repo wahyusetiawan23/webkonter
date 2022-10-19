@@ -58,7 +58,9 @@ body {
   border-radius: 12px;
   background-color: #ffffff;
 }
-
+.kategori img {
+  width: 90px;
+}
 .btn-submit {
   background-color: #4f80ff;
   color: #ffffff;
@@ -83,7 +85,7 @@ body {
   letter-spacing: 0;
   color: #4f80ff;
   background-color: white;
-  outline-color: #4f80ff;
+  border-color: #4f80ff;
 }
 
 .btn-outline-primary {
@@ -120,6 +122,19 @@ body {
 
 .footer {
   background-color: #4f80ff;
+}
+
+.footer .btn-wa {
+  background-color: #25d366;
+  border-color: #25d366;
+  color: #fff;
+  border-radius: 20px;
+}
+.footer .btn-email {
+  background-color: #fff;
+  border-color: #fff;
+  color: #4f80ff;
+  border-radius: 20px;
 }
 
 a {
@@ -440,4 +455,55 @@ ul li .active .uil {
 
 .sub-cat ul li {
   align-items: flex-start !important;
+}
+
+.hide {
+  display: none;
+}
+
+.details .card {
+  border: none;
+  box-shadow: 0 3px 20px rgb(0, 0, 0, 0.1);
+  border-radius: 10px !important;
+  background-color: #d9e8ef;
+}
+
+.details .card .card-header {
+  border-radius: 10px 10px 0px 0px;
+  background-color: #fff;
+}
+
+.details .card-header .title {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.details .stock-details {
+  margin-top: -10px;
+}
+
+.details .price-details .price {
+  font-size: 24px;
+  margin-top: -8px;
+  color: #4f80ff;
+  font-weight: 600;
+}
+
+.details .price-details {
+  margin-top: -10px;
+}
+.details .btn {
+  background-color: #4f80ff;
+  color: #fff;
+  border-color: #4f80ff;
+  transition: 0.5s;
+}
+.details .btn:hover {
+  background-color: #fff;
+  color: #4f80ff;
+  border-color: #4f80ff;
+  transform: translateY(-5px);
+}
+.footer img {
+  width: 50px;
 }
