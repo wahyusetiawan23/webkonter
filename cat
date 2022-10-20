@@ -1,0 +1,93 @@
+  <div class="table-responsive">
+                  <table class="table table-borderless">
+                    <tbody>
+                      <tr>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/hires.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Handphone & Aksesoris</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/hires.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Handphone & Aksesoris</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px; text-align: center">LCD</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">LCD Iphone X E1</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Sparepart</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Sparepart</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Sparepart</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Sparepart</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Sparepart</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Sparepart</h5>
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Sparepart</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/employee.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Sparepart</h5>
+                          </a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
