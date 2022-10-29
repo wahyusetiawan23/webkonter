@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <title>Smartphone Page</title>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <style></style>
+  </head>
+  <body class="d-flex flex-column min-vh-100">
+    <!-- Navbar -->
+    <section class="navbar-home">
+      <div class="container">
+        <nav class="navbar sticky-top">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <a href="#" class="btn btn-primary" role="button">More Info</a>
+          </div>
+        </nav>
+      </div>
+    </section>
+
+    <!-- Akhir Navbar -->
+    <!-- Hero -->
+    <section class="hero">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <img class="gambar" src="assets/img/smartphone.png" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Akhir Hero -->
+    <section>
+      <div class="container p-4 mb-4">
+        <div class="row justify-content-center">
+          <div class="col-lg-10 info-panel">
+            <h3 class="text-center mt-4">SMARTPHONE</h3>
+            <div class="row justify-content-center mb-4">
+              <div class="col-lg-8 mt-4">
+                <input class="form-control" type="text" placeholder="What are you looking for.." aria-label="default input example" />
+                <button type="button" class="btn btn-submit mt-4">SEARCH</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row d-flex justify-content-center card-option">
+          <div class="col-lg-10">
+            <div class="row button-icon mt-3">
+              <div class="col-lg mt-2">
+                <a href="index copy.html">
+                  <div class="card">
+                    <div class="img-button">
+                      <img src="assets/img/service.png" class="card-img-top" alt="..." />
+                    </div>
+                    <div class="card-body">
+                      <p class="card-text text-center">SERVICE CHECK</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg mt-2">
+                <a href="produk.html">
+                  <div class="card">
+                    <div class="img-button">
+                      <img src="assets/img/categories.png" class="card-img-top" alt="..." />
+                    </div>
+                    <div class="card-body">
+                      <p class="card-text text-center">PRODUCT</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg mt-2">
+                <a href="garansi copy.html">
+                  <div class="card">
+                    <div class="img-button">
+                      <img src="assets/img/warranty.png" class="card-img-top" alt="..." />
+                    </div>
+                    <div class="card-body">
+                      <p class="card-text text-center">WARRANTY CHECK</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- new -->
+    <section class="bg-brand-cat">
+      <div class="container mt-4 mb-4">
+        <div class="brand-cat">
+          <div class="title-brand-cat text-center"><h3>KATEGORI BRAND</h3></div>
+          <div class="row table-cat-brand">
+            <div class="col-md-12">
+              <div class="bg-cat-phone">
+                <div class="table-responsive">
+                  <table class="table table-borderless">
+                    <tbody>
+                      <tr>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-samsung.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Samsung</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-oppo.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Oppo</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-lg.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px; text-align: center">LG</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-vivo.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Vivo</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-xiaomi.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Xiaomi</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-huawei.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Huawei</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-htc.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Htc</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-mediatek.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Mediatek</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-qualcomm.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Qualcomm</h5>
+                          </a>
+                        </td>
+                        <td style="text-align: center">
+                          <a href="">
+                            <img src="assets/img/logo-brand-vivo.png" alt="" />
+                            <br />
+                            <h5 style="font-size: 12px">Vivo</h5>
+                          </a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- akhir new -->
+    <section class="sub-cat smartphone">
+      <div class="text-center title-sub">Nama Sub</div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2">
+            <nav class="navbar navbar-expand-md navbar-light bg-dark d-flex mb-5 flex-md-column" id="navbar-nav">
+              <a href="#"> </a>
+              <button class="navbar-toggler mt-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="">Sub Category</span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav w-100 d-flex flex-wrap flex-md-column flex-row">
+                  <li class="nav-item col-6 col-md-12">
+                    <a class="nav-link one" aria-current="page">All</a>
+                  </li>
+                  <li class="nav-item col-6 col-md-12">
+                    <a class="nav-link one active">LCD+TS VIVO Y91 Y91C Y93 Y95 CROWN SUPER BLACK</a>
+                  </li>
+                  <li class="nav-item col-6 col-md-12">
+                    <a class="nav-link one">Gallery </a>
+                  </li>
+                  <li class="nav-item col-6 col-md-12">
+                    <a class="nav-link one">Blog</a>
+                  </li>
+                  <li class="nav-item col-6 col-md-12">
+                    <a class="nav-link one">Gallery</a>
+                  </li>
+                  <li class="nav-item col-6 col-md-12">
+                    <a class="nav-link one" data-bs-toggle="tooltip" data-bs-title="LCD+TS VIVO Y91 Y91C Y93 Y95 CROWN SUPER BLACK">LCD+TS VIVO Y91 Y91C Y93 Y95 CROWN SUPER BLACK</a>
+                  </li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+          <div class="col-md-10">
+            <main class="product-name smartphone-card-sub">
+              <div class="row">
+                <div class="col-lg-12 mb-3 mt-2">
+                  <div class="row d-flex" id="serach-container">
+                    <div class="col-md-8">
+                      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" id="search-input" required />
+                    </div>
+                    <div class="col-md-2"><button class="btn btn-search-sub w-100" type="submit" id="search">Search</button></div>
+                    <div class="col-md-2">
+                      <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">FIlter</button>
+                        <ul class="dropdown-menu">
+                          <li><a class="dropdown-item" href="#">New</a></li>
+                          <li><a class="dropdown-item" href="#">Used</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row mb-4" data-aos="fade-in" data-aos-delay="100" data-aos-duration="1000" data-aos-easing="ease-in-out" id="content-list">
+                <div class="col-6 col-sm-6 col-lg-3 col-md-4 mb-4">
+                  <div class="card shadow">
+                    <a href="details-handphone.html"> <img src="assets/img/hape.jpg" style="width: 100%" class="card" alt="..." /></a>
+                    <div class="card-body">
+                      <a href="details-handphone.html"> <h5 style="font-size: 0.88rem" class="card-title">Card Title Lorem ipsum dolor sit amet.</h5></a>
+                      <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #9e9e9e" class="card-text">Ex Condition</p>
+                        </div>
+                      </div>
+                      <!-- <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Ram : 4 GB</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Internal : 64 GB</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Color : Black</p>
+                        </div>
+                      </div> -->
+                      <div class="row price">
+                        <div class="col-md-12">
+                          <h5 style="font-size: 1rem">Rp.1700.000 - 1800.000</h5>
+                        </div>
+                      </div>
+                      <div class="row button-action">
+                        <div class="col-lg-12">
+                          <!-- <a href="#" class="btn mt-2 btn-shop">GSM Arena</a> -->
+                          <a href="#" class="btn mt-2 btn-beli">Buy</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-6 col-sm-6 col-lg-3 col-md-4 mb-4">
+                  <div class="card shadow">
+                    <a href="details-handphone.html"> <img src="assets/img/hape.jpg" style="width: 100%" class="card" alt="..." /></a>
+                    <div class="card-body">
+                      <a href="details-handphone.html"> <h5 style="font-size: 0.88rem" class="card-title">Card Title Lorem ipsum dolor sit amet.</h5></a>
+                      <div class="row mt-3">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #9e9e9e" class="card-text">Ex Condition</p>
+                        </div>
+                      </div>
+                      <!-- <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Ram : 4 GB</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Internal : 64 GB</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Color : Black</p>
+                        </div>
+                      </div> -->
+                      <div class="row price">
+                        <div class="col-md-12">
+                          <h5 style="font-size: 1rem">Rp.1700.000 - 1800.000</h5>
+                        </div>
+                      </div>
+                      <div class="row button-action">
+                        <div class="col-lg-12">
+                          <a href="#" class="btn mt-2 btn-shop">GSM Arena</a>
+                          <a href="#" class="btn mt-2 btn-beli">Buy</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-6 col-sm-6 col-lg-3 col-md-4 mb-4">
+                  <div class="card shadow">
+                    <a href="details-handphone.html"> <img src="assets/img/hape.jpg" style="width: 100%" class="card" alt="..." /></a>
+                    <div class="card-body">
+                      <a href="details-handphone.html"> <h5 style="font-size: 0.88rem" class="card-title">Card Title Lorem ipsum dolor sit amet.</h5></a>
+                      <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #9e9e9e" class="card-text">Ex Condition</p>
+                        </div>
+                      </div>
+                      <!-- <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Ram : 4 GB</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Internal : 64 GB</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <p style="font-size: 0.8rem; color: #000" class="card-text">Color : Black</p>
+                        </div>
+                      </div> -->
+                      <div class="row price">
+                        <div class="col-md-12">
+                          <h5 style="font-size: 1rem">Rp.1700.000 - 1800.000</h5>
+                        </div>
+                      </div>
+                      <div class="row button-action">
+                        <div class="col-lg-12">
+                          <a href="#" class="btn mt-2 btn-shop">GSM Arena</a>
+                          <a href="#" class="btn mt-2 btn-beli">Buy</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- akhir -->
+              </div>
+            </main>
+          </div>
+        </div>
+      </div>
+    </section>
+    <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
+      <i class="fa-brands fa-whatsapp my-float"></i>
+    </a>
+    <footer class="mt-auto">
+      <section class="footer">
+        <div class="container pb-4">
+          <div class="row">
+            <div class="col-md-4 text-center text-white mt-3">
+              <p>Nama Toko</p>
+              <p style="margin-top: -10px">Alamat toko</p>
+            </div>
+            <div class="col-md-4 text-center brand-toko text-white mt-3">
+              <p>Pembayaran & Pengiriman</p>
+              <div style="margin-top: -10px">
+                <span class="badge text-bg-light bca"><img src="assets/img/bca.png" alt="" /></span>
+                <span class="badge text-bg-light bni"><img src="assets/img/bni.png" alt="" /></span>
+                <span class="badge text-bg-light mandiri"><img src="assets/img/mandiri.png" alt="" /></span>
+                <span class="badge text-bg-light"><img src="assets/img/bri.jpg" alt="" /></span>
+                <span class="badge text-bg-light"><img src="assets/img/gosend.png" alt="" /></span>
+                <span class="badge text-bg-light"><img src="assets/img/grab.svg" alt="" /></span>
+                <span class="badge text-bg-light mt-2"><img src="assets/img/jne.png" alt="" /></span>
+                <span class="badge text-bg-light jnt"><img src="assets/img/jnt.jpg" alt="" /></span>
+                <span class="badge text-bg-light"><img src="assets/img/tiki.png" alt="" /></span>
+                <span class="badge text-bg-light paypal"><img src="assets/img/paypal-3.svg" alt="" /></span>
+              </div>
+            </div>
+            <div class="col-md-4 text-center text-white mt-3">
+              <p>Hubungin Kami</p>
+              <a href="" style="margin-top: -10px" class="btn btn-success btn-sm w-50 btn-wa mb-3"> Whatsapp <i class="fa-brands fa-whatsapp px-2 fa-xl"></i></a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </footer>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      var btnContainer = document.getElementById("navbar-nav");
+      var btns = btnContainer.getElementsByClassName("one");
+
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function () {
+          var current = document.getElementsByClassName("active");
+          current[0].className = current[0].className.replace(" active");
+          this.className += " active";
+        });
+      }
+    </script>
+    <script>
+      AOS.init();
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+  </body>
+</html>
