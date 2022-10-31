@@ -1,0 +1,22 @@
+    <div class="ribbon bg-secondary">Second</div>
+    .ribbon {
+  margin: 0.25rem;
+  border-radius: 4px;
+  position: absolute;
+  top: 0.75rem;
+  right: calc(-1 * 0.25rem);
+  z-index: 1;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.625rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 4px 0 4px 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2rem;
+  min-width: 2rem;
+}
