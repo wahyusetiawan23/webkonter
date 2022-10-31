@@ -846,3 +846,9 @@ ul li .active .uil {
   transform: translateY(-8px) !important;
   transition: 0.5s;
 }
+.details {
+    margin-top: 40px !important;
+  }
+  .details .card-title {
+    margin-top: 10px !important;
+  }
