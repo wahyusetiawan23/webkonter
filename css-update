@@ -724,10 +724,7 @@ ul li .active .uil {
 }
 
 /* baru style rabu 26 */
-.brand-cat img {
-  height: 50px;
-  object-fit: cover;
-}
+
 
 .smartphone-card-sub img {
   height: 220px !important;
@@ -829,11 +826,23 @@ ul li .active .uil {
   width: 100%;
 }
 
-.brand-cat .table-cat-brand table tr td:hover {
-  transform: translateY(-8px) !important;
-  transition: 0.5s;
-}
+
 .button-action .col-lg-12 {
   display: flex;
   gap: 15px;
+}
+.brand-cat img {
+  height: 50px;
+  object-fit: cover;
+}
+.bg-brand-cat .table-cat-brand .bg-cat-phone {
+  background-color: #fff;
+  box-shadow: 0 3px 20px rgb(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.brand-cat .table-cat-brand table tr td:hover {
+  transform: translateY(-8px) !important;
+  transition: 0.5s;
 }
