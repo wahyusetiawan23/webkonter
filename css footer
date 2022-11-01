@@ -16,3 +16,9 @@
 .paypal img {
   width: 58px;
 }
+.footer .btn-wa {
+  background-color: #25d366;
+  border-color: #25d366;
+  color: #fff;
+  border-radius: 20px;
+}
