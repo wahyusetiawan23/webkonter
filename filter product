@@ -34,3 +34,9 @@
   font-weight: 500;
   font-size: 18px;
 }
+---------------------------------------------
+.brand-cat img {
+  height: 50px;
+  object-fit: cover;
+  margin-top: 15px;
+}
