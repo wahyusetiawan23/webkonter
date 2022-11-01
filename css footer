@@ -1,0 +1,18 @@
+.footer img {
+  width: 44px;
+}
+
+.details img {
+  width: 100%;
+}
+
+.footer .mandiri img,
+.bca img,
+.bni img {
+  width: 50px;
+}
+
+.jnt img,
+.paypal img {
+  width: 58px;
+}
