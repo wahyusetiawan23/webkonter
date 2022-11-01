@@ -1,0 +1,36 @@
+
+
+<div class="card card-filter">
+              <div class="card-header">Filter Product</div>
+              <ul class="list-group list-group-flush p-2">
+                <li class="list-group-item active"><a href="">All</a></li>
+                <li class="list-group-item"><a href="">New Condition</a></li>
+                <li class="list-group-item"><a href="">Ex Condition</a></li>
+              </ul>
+            </div>
+            
+ ----------------------------------------------------------------------------header sub-----------------------------
+ 
+  <div class="w-100">
+                    <h5>Model</h5>
+                  </div>
+            
+ -----------------------------------------------------------------------------css-------------------------------------------------------------------            
+            .sub-cat .card-filter {
+  border-radius: 5px !important;
+  margin-top: 20px;
+}
+.sub-cat .card-filter .list-group {
+  margin-top: 0px;
+}
+.sub-cat .card-filter .list-group-item.active {
+  background-color: #4f80ff !important;
+  color: #fff !important;
+}
+.sub-cat .card-filter .list-group-item.active a {
+  color: #fff;
+}
+.sub-cat .card-filter .card-header {
+  font-weight: 500;
+  font-size: 18px;
+}
