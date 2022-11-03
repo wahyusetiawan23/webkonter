@@ -856,6 +856,9 @@ ul li .active .uil {
 .sub-cat h5 {
   color: #fff;
 }
+.grade-product {
+  color: #fff;
+}
 
 @media only screen and (max-width: 992px) {
   .product .card img,
