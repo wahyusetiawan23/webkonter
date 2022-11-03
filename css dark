@@ -25,6 +25,7 @@ body {
 }
 
 .hero {
+  z-index: -99999;
   background-color: #111315;
 }
 
